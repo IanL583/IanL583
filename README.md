@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IanL583
 - 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning frontend fundamentals through the Odin Project
-- 💞️ I’m looking to collaborate on fun projects that might be useful like a productivity app
+- 🌱 I’m currently learning python on the web
+- 💞️ I’m looking to collaborate on fun projects that might be impactful like a productivity app
 - 📫 How to reach me (LinkedIn)!
 
 <!---
