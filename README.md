@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IanL583
 - 👀 I’m interested in backend development, but would like to become a fullstack developer
-- 🌱 I’m currently learning python on the web and want to learn frontend frameworks
+- 🌱 I’m currently learning python on the web and want to learn data frameworks
 - 💞️ I’m looking to collaborate on fun projects that might be impactful like a productivity app or a game you can play with friends online
 - 📫 How to reach me (LinkedIn)!
 
